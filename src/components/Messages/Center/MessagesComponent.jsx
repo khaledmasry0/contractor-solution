@@ -42,7 +42,7 @@ function MessagesComponent() {
               component="span"
               variant="body2"
             >
-              Ali Connors
+              khaled Connors
             </Typography>
           }
         />
